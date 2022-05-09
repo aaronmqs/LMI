@@ -108,6 +108,7 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 --->
 ## 🔍 References
 * https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md
+* Analysis and Control of Linear Systems via Linear Matrix Inequalities (LMIs) Optimization course lecture notes - Prof. Fabrício Gonzalez Nogueira (2022.1) - Master's Program in Electrical Engineering - Federal University of Ceara.
 
 ## 📝 License
 
