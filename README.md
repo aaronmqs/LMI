@@ -20,6 +20,7 @@ The project is still under development and the next updates will focus on the fo
 - [x] Creating a github repository for the project
 - [ ] Adapting the structure of this readme to the project needs
 - [ ] Adopting git best practices in the repository
+- [ ] Adding more references
 
 ## 💻 Requirements to start this project:
 
@@ -104,6 +105,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 --->
+## 🔍 References
+* https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md
+
 ## 📝 License
 
 This project is under license. See the [LICENSE](LICENSE) file for more details.
