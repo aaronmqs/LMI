@@ -108,4 +108,4 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 This project is under license. See the [LICENSE](LICENSE) file for more details.
 
-[⬆ Back to the top](#Analysis and Control of Linear Systems via LMIs)<br>
+[⬆ Back to the top](https://github.com/aaronmqs/LMI/edit/main/README.md#analysis-and-control-of-linear-systems-via-lmis)<br>
