@@ -8,10 +8,12 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 --->
-<img src="exemplo-image.png" alt="exemplo imagem">
 
 > This project presents some codes developed during the course on Analysis and Control of Linear Systems via Linear Matrix Inequalities (LMIs) Optimization (2022.1) - Master's Program in Electrical Engineering - Federal University of Ceara.
-### Ajustes e melhorias
+
+![untitled](https://user-images.githubusercontent.com/68541168/167341759-d4be2819-a41a-4159-b9c2-16bced01e587.png)
+
+### Adjustments and improvements
 
 The project is still under development and the next updates will focus on the following tasks:
 
