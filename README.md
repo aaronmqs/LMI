@@ -106,6 +106,6 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 --->
 ## 📝 License
 
-This project is under license. See the [LICENSE](LICENSE.md) file for more details.
+This project is under license. See the [LICENSE](LICENSE) file for more details.
 
-[⬆ Back to the top](#nome-do-projeto)<br>
+[⬆ Back to the top](#Analysis and Control of Linear Systems via LMIs)<br>
