@@ -21,6 +21,7 @@ The project is still under development and the next updates will focus on the fo
 - [ ] Adapting the structure of this readme to the project needs
 - [ ] Adopting git best practices in the repository
 - [ ] Adding more references
+- [ ] Implementing integral action in the polytopic case (using D-Stability) for reference tracking
 
 ## 💻 Requirements to start this project:
 
