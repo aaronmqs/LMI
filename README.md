@@ -13,16 +13,6 @@
 
 ![untitled](https://user-images.githubusercontent.com/68541168/167341759-d4be2819-a41a-4159-b9c2-16bced01e587.png)
 
-### Tasks
-
-The project is still under development and the next updates will focus on the following tasks:
-
-- [x] Creating a github repository for the project
-- [ ] Adapting the structure of this readme to the project needs
-- [ ] Adopting git best practices in the repository
-- [ ] Adding more references
-- [ ] Implementing integral action in the polytopic case (using D-Stability) for reference tracking
-
 ## 💻 Requirements to start this project:
 
 Before starting, make sure you've met the following requirements:
