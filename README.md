@@ -22,9 +22,11 @@ Before starting, make sure you've met the following requirements:
 * You want to try some control algorithms for linear models with constraints and uncertainties!.
 
 ## 🔍 References
-* https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md
+
+* Linear Matrix Inequalities in System and Control Theory - Stephen Boyd, Laurent El Ghaoui, Eric Feron, and Venkataramanan Balakrishnan
 * Mixed H2/Hinf control of a two-floors building model using the linear matrix inequality approach - Gustavo Luiz Chagas Manhães de Abreu, Vicente Lopes Jr., Michael J. Brennan
 * Analysis and Control of Linear Systems via Linear Matrix Inequalities (LMIs) Optimization course lecture notes - Prof. Fabrício Gonzalez Nogueira (2022.1) - Master's Program in Electrical Engineering - Federal University of Ceara.
+* https://github.com/iuricode/README-template/blob/main/README-repository/iuricode.md
 
 ## 📝 License
 
